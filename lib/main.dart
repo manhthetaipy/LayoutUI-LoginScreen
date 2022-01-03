@@ -264,6 +264,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   IconButton(
+                  icon: const Icon(Icons.account_circle, size: 50),
                     
                     onPressed: () {},
                   ),
